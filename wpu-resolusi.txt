@@ -3,9 +3,11 @@ RENCANA KONTEN AYUNA
 -Javascript
  *ES6
  *Framework Javascript
-  ^Angular
+  ^Vue
   ^react
+-Struktur data dasar
 -PHP Framework
   ^Laravel
 -Interview
 -Vlogs
+-Python
