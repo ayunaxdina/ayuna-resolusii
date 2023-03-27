@@ -4,6 +4,7 @@ RENCANA KONTEN AYUNA
  *ES6
  *Framework Javascript
   ^Vue
+  ^react
 -Struktur data dasar
 -PHP Framework
   ^Laravel
